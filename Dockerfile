@@ -1,1 +1,1 @@
-FROM pushtechnology/diffusion:6.9.7-88444ed9
+FROM pushtechnology/diffusion:6.11.0-
