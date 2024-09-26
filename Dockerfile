@@ -1,1 +1,1 @@
-FROM pushtechnology/diffusion:6.11.0-
+FROM pushtechnology/diffusion:6.11.1-fc091952
